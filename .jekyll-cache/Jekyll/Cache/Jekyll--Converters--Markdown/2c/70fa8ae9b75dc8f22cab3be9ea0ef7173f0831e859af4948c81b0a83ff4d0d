@@ -1,0 +1,6 @@
+I"><h1 id="my-first-posting">My First Posting</h1>
+<p>안녕하세요. 첫번째 포스팅 입니다.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="nb">print</span><span class="p">(</span><span class="s2">"Hello World"</span><span class="p">)</span></code></pre></figure>
+
+:ET
