@@ -1,0 +1,13 @@
+{
+	"result" : [
+		{
+		"name" : "슈퍼맨",
+		"name_eng" : "superman",
+		"image" : "https://user-images.githubusercontent.com/46439995/131425893-8815d867-62fb-44de-9d93-89418040eb12.gif"
+		}
+
+	],
+	"isSuccess" : true,
+	"code" : 100,
+	"message" : "운동영상 조회 성공"
+}
